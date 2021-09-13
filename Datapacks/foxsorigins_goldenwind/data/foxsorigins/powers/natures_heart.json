@@ -1,0 +1,5 @@
+{
+    "type": "origins:disable_regen",
+	"name": "Nature's Heart",
+	"description": "You are unable to regenerate with saturation"
+}

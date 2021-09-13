@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"foxsorigins:grow",
+		"foxsorigins:shrink",
+		"foxsorigins:size_meter",
+		"foxsorigins:size0",
+		"foxsorigins:size1",
+		"foxsorigins:size2",
+		"foxsorigins:size3",
+		"foxsorigins:size4",
+		"foxsorigins:exhaustion"
+	],
+	"icon": "minecraft:potion",
+	"impact": 3,
+	"name": "Scaleshifter",
+	"description": "Unlike a shapeshifter, the Scaleshifter is only able to change their size."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:poison",
+		"minecraft:weakness",
+		"minecraft:wither",
+		"minecraft:mining_fatigue",
+		"minecraft:nausea",
+		"minecraft:instant_damage"
+    ],
+	"name": "Effect Immune",
+	"description": "You wont get any effects such as wither poison weakness nausea hunger and more"
+}
