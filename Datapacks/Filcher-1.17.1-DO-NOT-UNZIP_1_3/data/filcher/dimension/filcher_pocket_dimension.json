@@ -12,7 +12,7 @@
           "height": 256
         }
       ],
-      "biome": "filcher:filcher_space"
+      "biome": "filcher:land of the penis"
     }
   },
   "type": {
@@ -20,8 +20,8 @@
     "natural": true,
     "piglin_safe": true,
     "respawn_anchor_works": false,
-    "bed_works": false,
-    "has_raids": false,
+    "bed_works": true,
+    "has_raids": true,
     "has_skylight": false,
     "has_ceiling": false,
     "coordinate_scale": 1,
